@@ -32,22 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tousifzzaman&show_icons=true&theme=radical" alt="Tousif's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tousifzzaman&theme=radical" alt="Tousif's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifzzaman&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🏅 Badges
 
 ![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=dev.to)
