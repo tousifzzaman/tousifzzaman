@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Tousif Zzaman
 
-<!--
-**tousifzzaman/tousifzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Enthusiast | Linux Fan | Cloud Learner | Future SRE
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on improving my skills in **DevOps and Cloud Infrastructure**.
+- 🌱 Learning tools like **Kubernetes, Terraform, Jenkins, AWS**, and more.
+- 💬 Ask me about **Linux, Shell Scripting, Docker, CI/CD pipelines**.
+- 📫 Reach me at: **tousizzaman@gmail.com**
+- 📍 Based in **West Bengal, India**
+- ⚡ Fun fact: I automate everything that can be automated 😄
+
+---
+
+### 📁 Projects & Work
+
+You can find all my code and projects here:  
+👉 [GitHub Profile](https://github.com/tousifzzaman)
+
+---
+
+### 🤝 Connect with Me
+
+- 📧 Email: [tousizzaman@gmail.com](mailto:tousizzaman@gmail.com)  
+- 🔗 LinkedIn: [Md Tousif Zzaman](https://www.linkedin.com/in/md-tousif-zzaman-26bb54259)
+
+---
